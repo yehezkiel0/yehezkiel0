@@ -12,6 +12,14 @@ Versatile Software Engineer with hands-on expertise in the full web development 
 ![](https://nirzak-streak-stats.vercel.app/?user=yehezkiel0&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yehezkiel0&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaf/maurodesouzaf/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yehezkiel0&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 
